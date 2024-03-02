@@ -1,0 +1,34 @@
+{
+  "name": "souldefi-design-svg-util",
+  "version": "1.0.2",
+  "description": "fatser svg utils",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "dependencies": {
+    "async": "~0.9.0",
+    "blastant-design-svg-util": "^1.0.2",
+    "dxf-parsing": "^0.3.7",
+    "gm": "~1.17.0",
+    "underscore": "~1.7.0",
+    "xml2js": "~0.4.4",
+    "xmlbuilder": "^2.4.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/langchen2005/souldefi.git"
+  },
+  "keywords": [
+    "design",
+    "svg",
+    "util",
+    "npm"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/langchen2005/blastant/issues"
+  },
+  "homepage": "https://github.com/langchen2005/blastant#readme"
+}
